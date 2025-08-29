@@ -1,2 +1,2 @@
 # hospital
-modelo de prueba para asignación de turnos en hospitales
+modelo de prueba para compra de medicamentos en hospitales
